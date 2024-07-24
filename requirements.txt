@@ -1,0 +1,17 @@
+tensorflow
+bert-extractive-summarizer
+spacy
+transformers
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch
+neuralcoref
+Flask
+pandas
+requests
+pywsd
+nltk
+flashtext
+git+https://github.com/boudinfl/pke.git
+
+
+
